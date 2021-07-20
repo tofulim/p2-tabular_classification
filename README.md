@@ -11,6 +11,7 @@
 ### Important Technic
 - label threshold control (payment predict for )
 - hard voting 
+- delete outlier (based on LGBM Feature Importance method)  
 ### Important Feature
 - user's last order time
 ### Ensemble figure
