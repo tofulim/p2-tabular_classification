@@ -8,6 +8,7 @@
 - EDAnEnsemble : data EDA, feature making,Ensemble
 - tabnet : use tabular NN model(tabnet) for train, inference                                                         
 ### Important Technic
+- KFold
 - label threshold control (payment predict for )
 - hard voting 
 - delete outlier (based on LGBM Feature Importance method)  
