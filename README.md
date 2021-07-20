@@ -8,10 +8,11 @@
 - Boosting_Model : use LGBM, XGBoost, CatBoost for train, inference
 - EDAnEnsemble : data EDA, feature making,Ensemble
 - tabnet : use tabular NN model(tabnet) for train, inference                                                         
-### Importance Technic
+### Important Technic
 - label threshold control (payment predict for )
 - hard voting 
-
+### Important Feature
+- user's last order time
 ### Ensemble figure
 ![image](https://user-images.githubusercontent.com/52443401/122660653-f4bd4180-d1bd-11eb-90dc-a059609af60a.png)
 
