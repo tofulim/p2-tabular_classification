@@ -14,6 +14,8 @@
 - delete outlier (based on LGBM Feature Importance method)  
 ### Important Feature
 - user's last order time
+- ![fi](https://user-images.githubusercontent.com/52443401/126287361-7b134160-7516-453e-9ebc-b783ab9ab905.png)
+
 ### Ensemble figure
 ![image](https://user-images.githubusercontent.com/52443401/122660653-f4bd4180-d1bd-11eb-90dc-a059609af60a.png)
 
