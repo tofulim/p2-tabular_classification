@@ -1,4 +1,4 @@
-# pstage_01_tabular_classification
+# pstage_02_tabular_classification
 - 기간 : 2021.04.12~2021.04.23
 - 대회 내용 : 2년간의 구매 내역으로 마지막 월에 300을 초과하여 구매할 유저를 예측(AUC : 0.8599 최종 20등) 
 - 수행 요약 : EDA, 12월에 근접한 구매내역이 있는 우량 유저들을 target으로 핵심 피처 생성, pytorch, matplotlib, seaborn, mlflow이용
