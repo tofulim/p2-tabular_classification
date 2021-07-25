@@ -6,7 +6,12 @@
 ### notebook환경으로 진행
 - Boosting_Model : use LGBM, XGBoost, CatBoost for train, inference
 - EDAnEnsemble : data EDA, feature making,Ensemble
-- tabnet : use tabular NN model(tabnet) for train, inference                                                         
+- tabnet : use tabular NN model(tabnet) for train, inference   
+
+### Main idea
+- 이탈 고객이 많아 모든 유저의 매월 data를 sequence로 잡으면 sparse해진다.
+- 우량 유저들은 언제나 많은 양을 구매한다
+-> 우량 유저이면서 최근까지 이용한 고객들을 target으로 설정
 ### Important Technic
 - Stratified KFold
 - label threshold control (payment predict for )
