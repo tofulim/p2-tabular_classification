@@ -16,7 +16,6 @@
 - Stratified KFold
 - label threshold control (payment predict for )
 - delete outlier (based on LGBM Feature Importance method)  
-- user_month_split
 ### Important Feature
 - user's last order time
 ![fi](https://user-images.githubusercontent.com/52443401/126287361-7b134160-7516-453e-9ebc-b783ab9ab905.png)
